@@ -1,6 +1,9 @@
 ## Optical character recognition
 PresentID Optical character recognition API can extract data from all types of cards including driver's license, National ID card, Certificate, etc.
 
+![ocr](https://user-images.githubusercontent.com/63470748/119773827-1143b380-be76-11eb-9b0e-5913ed113f1e.jpg)
+
+
 **Input:**
 - Driver's license
 - National ID card
