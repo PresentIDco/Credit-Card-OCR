@@ -4,7 +4,7 @@ PresentID Credit Card OCR can extract data from all types of Credit cards.
 ![ocr](https://presentid.com/assets/img/trans-ssa.png)
 
 **youtube videos:**
-<iframe style="margin-top: 60px" class="iframeyoutube" src="https://www.youtube.com/embed/LmNo8jTuXSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+https://www.youtube.com/embed/LmNo8jTuXSE
 
 **Input:**
 - Credit Cards
